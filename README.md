@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To use this project at its full. The admin of the app should know your requirements because only they can create and add/remove you to different chatgroups.
+Enjoy <3
+
 ## Available Scripts
 
 In the project directory, you can run:
