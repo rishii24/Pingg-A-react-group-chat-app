@@ -1,5 +1,9 @@
 To log-in and witness the functionality of this app use Batman as your username and batman123 as password.
 
+Pingg is a React.js and Chat Engine based app which lets us create groups for texting and sharing images with the other members.
+
+Admin privilages : In this app the admin of the project holds the control to create groups, add members, and enable them to text and send pictures to the group.
+
 
 # Getting Started with Create React App
 
