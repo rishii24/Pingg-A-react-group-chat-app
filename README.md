@@ -1,3 +1,6 @@
+To log-in adn witness the functionality use Batman as your username and batman123 as password.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
