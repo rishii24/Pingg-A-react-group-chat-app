@@ -1,4 +1,4 @@
-To log-in adn witness the functionality use Batman as your username and batman123 as password.
+To log-in and witness the functionality of this app use Batman as your username and batman123 as password.
 
 
 # Getting Started with Create React App
